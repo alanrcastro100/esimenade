@@ -99,5 +99,4 @@ npm run build
 
 ## Documentação do Projeto
 - [Low-Level Design (LLD)](docs/LLD.md)
-- [Stack Tecnológico e Observações](docs/tech_stack_e_detalhes.md)
-- [EAP e Product Backlog](docs/Equipe%201%20-%20Backlog.pdf)
+- Provas de exemplo ENADE em `docs/exemplo_provas/`

@@ -25,3 +25,7 @@ npm-debug.log*
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local-only docs
+docs/Equipe 1 - Backlog.pdf
+docs/tech_stack_e_detalhes.md
